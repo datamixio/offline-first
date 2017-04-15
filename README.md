@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-> via http://www.html5rocks.com/en/features/offline
+> via https://www.html5rocks.com/en/features/offline
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -39,6 +39,159 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
+
+[Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+(Jani Eväkallio - Mar 28, 2017)
+
+[Rethinking Offline First sync for Service Workers](https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee)
+(Nolan Lawson - Mar 16, 2017)
+
+[Offline support: "Try again, later", no more.](https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc)
+(Yonatan V. Levin - Mar 2, 2017)
+
+[Optimize with HTTP/2 Server Push and Service Workers!](https://blog.yld.io/2017/03/01/optimize-with-http-2-server-push-and-service-workers)
+(Daniela Matos de Carvalho - Mar 1, 2017)
+
+[Understand offline first and offline last in Android](https://medium.com/@coreflodev/understand-offline-first-and-offline-last-in-android-71191e92b426)
+(Florent Guillemot - Feb 27, 2017)
+
+[Why Offline First?](https://medium.com/buildit/why-offline-first-20470604ee36)
+(Zachary Smith - Feb 22, 2017)
+
+[Send messages when you’re back online with Service Workers and Background Sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
+(Phil Nash - Feb 17, 2017)
+
+[Offline First React Native + Meteor Apps](https://hackernoon.com/offline-first-react-native-meteor-apps-2bee8e976ec7)
+(Spencer Carli - Feb 8, 2017)
+
+[Offline-First Web Application Using Redux and PouchDB](https://stories.jotform.com/offline-first-web-applications-d2d321444510)
+(Berkay Aydın - Jan 30, 2017)
+
+[Implementing "Save For Offline" with Service Workers.](https://una.im/save-offline)
+(Una Kravets - Jan 26, 2017)
+
+[Moving beyond localStorage](https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15#.wqzo3mpuz)
+(Mo Bitar - Jan 17, 2017)
+
+[How much data should my Service Worker put upfront in the offline cache?](https://nicolas-hoizey.com/2017/01/how-much-data-should-my-service-worker-put-upfront-in-the-offline-cache.html)
+(Nicolas Hoizey- Jan 12, 2017)
+
+[Making Resilient Web Design work offline](https://medium.com/@adactio/making-resilient-web-design-work-offline-a5854781b75b#.8khh8bnio)
+(Jeremy Keith - Jan 11, 2017)
+
+[Using Service Workers and Cache to Take Web Performance to a New Level](https://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/)
+(Chris Love - Dec 23, 2016)
+
+[Faking progress (service worker edition)](https://medium.com/remys-blog/faking-progress-service-worker-edition-4c3fa16e5b32#.coya1w3ki)
+(Remy Sharp - Dec 22, 2016)
+
+[Introduction to Progressive Web Apps (Offline First)](https://auth0.com/blog/introduction-to-progressive-apps-part-one/)
+(Prosper Otemuyiwa - Dec 19, 2016)
+
+[Won’t Get Fooled Again: Lessons in Lie-Fi](https://medium.com/outsystems-engineering/wont-get-fooled-again-lessons-in-lie-fi-9097052ea66e#.texx2j9pd)
+(Ricardo Ferreira - Dec 15, 2016)
+
+[Designing for Accidental Disconnects: Our first attempt at an offline approach](http://blog.getchop.io/2016/12/14/designing-for-accidental-disconnects-our-first-attempt-at-an-offline-approach/)
+(Vivian Cromwell - Dec 14, 2016)
+
+[Offline Patterns: There are many jobs to be done](https://medium.com/offline-camp/offline-patterns-there-are-many-jobs-to-be-done-9f97f7e89304#.54tbekzbf)
+(Steve Trevathan - Dec 13, 2016)
+
+[Writing offline web apps is easy](https://medium.com/@aliafshar/writing-offline-web-apps-is-easy-bc5ece2ed16e#.26kewn4dd)
+(Ali Afshar - Dec 9, 2016)
+
+[Architecting a web app to “just work” offline](https://blog.superhuman.com/architecting-a-web-app-to-just-work-offline-part-1-8697f316c0eb#.i6y75or3v)
+(Islam Sharabash - Dec 6, 2016)
+
+[Offline App Architecture: how to build for the next billion](https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.30ev0831v)
+(Arun Sasidharan - Dec 4, 2016)
+
+[Cross-origin Service Workers: Experimenting with Foreign Fetch](https://developers.google.com/web/updates/2016/09/foreign-fetch)
+(Jeff Posnick - Dec 2016)
+
+[Service Worker, what are you?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65#.wc6eggecd)
+(Mariko Kosaka - Dec 1, 2016)
+
+[Designed to be offline-first](https://medium.com/hypertrack/designed-to-be-offline-first-def41a3668b8#.a0u11gp4j)
+(Arjun Attam - Nov 29, 2016)
+
+[Hack Time: Service Workers, Background Sync, and PouchDB](https://medium.com/offline-camp/hack-time-service-workers-background-sync-and-pouchdb-3c8b71535823#.qlqbjm6dw)
+(John Kleinschmidt - Nov 29, 2016)
+
+[Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+(Mustafa Kurtuldu - 2016)
+
+[Storing Sensitive Data Offline](https://medium.com/offline-camp/storing-sensitive-data-offline-cec851df95e3#.g78qucejz)
+(Paul Frazee - Nov 17, 2016)
+
+[Building Offline First React Native Apps](https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009#.94hfszbig)
+(Spencer Carli - Nov 16, 2016)
+
+[Building a simple offline-capable Notepad app using ServiceWorker](https://hackernoon.com/building-a-simple-offline-capable-notepad-app-using-serviceworker-97b9b50767a5#.k9zhvs3ep)
+(Amit Merchant - Nov 15, 2016)
+
+[Instant Loading Web Apps with an Application Shell Architecture by Google](https://developers.google.com/web/updates/2015/11/app-shell)
+(Addy Osmani & Matt Gaunt - 2016)
+
+[My biggest takeaway from the second Offline Camp in Santa Margarita, CA — plus toast!](https://medium.com/@jessebeach/my-biggest-takeaway-from-the-second-offline-camp-in-santa-margarita-ca-d0dd930cd02b#.di93bftj9)
+(J. Renée Beach - Nov 8, 2016)
+
+[The offline experience in 2016](https://medium.com/@leofle/the-offline-experience-in-2016-83b1f00d7bfa#.nk8910brf)
+(Lio Fleishman - Oct 27, 2016)
+
+[I Was Wrong About Offline](https://medium.com/outsystems-engineering/i-was-wrong-about-offline-fe5426894740#.yb9hhitn0)
+(Tiago Simões - Oct 20, 2016)
+
+[Offline strategies come to the Service Worker Cookbook](https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/)
+(Salva - Oct 19, 2016)
+
+["Instant Loading" with IndexedDB (Building a PWA, Part 2)](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
+(Ire Aderinokun - Oct 18, 2016)
+
+[The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
+(Jake Archibald - Oct 13, 2016)
+
+["Offline First" with Service Worker (Building a PWA, Part 1)](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
+(Ire Aderinokun - Oct 11, 2016)
+
+[Do you need Service Worker in your web app?](https://codingbox.io/do-you-need-service-worker-in-your-web-app-d68131d65e2c?gi=666f4385e803)
+(Valerii Iatsko - Oct 9, 2016)
+
+[Progressive Web Apps with React.js: Part 3 — Offline support and network resilience](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c?source=userActivityShare-136a881c591e-1475748613)
+(Addy Osmani - Oct 5, 2016)
+
+[Offline Reading List](https://chrisruppel.com/blog/service-worker-offline-content-list/)
+(Chris Ruppel - Oct 5, 2016)
+
+[Enabling Offline First Experiences on the Web with Service Workers](https://medium.com/offline-camp/enabling-offline-first-experiences-on-the-web-with-service-workers-e4bc8c773dae#.c6ui0i9cs)
+(Dan Zajdband - Sep 12, 2016)
+
+[Build More Reliable Web Apps with Offline](http://thenewstack.io/build-better-customer-experience-applications-using-offline-first-principles/)
+(Pedro Teixeira - Sep 7, 2016)
+
+[Songsearch – using ServiceWorker to make a 4 MB CSV easily searchable in a browser](https://www.christianheilmann.com/2016/08/26/songsearch-using-serviceworker-to-make-a-4-mb-csv-easily-searchable-in-a-browser/)
+(Christian Heilmann - Aug 26, 2016)
+
+[Offline Storage for Progressive Web Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.ryrpvq43r)
+(Addy Osmani - Aug 15, 2016)
+
+[Add offline support to any Web app](https://medium.com/google-developer-experts/add-offline-support-to-any-web-app-c20edc4bea0e#.jeseb4ovf)
+(Wassim Chegham - Jul 23, 2016)
+
+[ServiceWorker: A Basic Guide to BackgroundSync](https://ponyfoo.com/articles/backgroundsync)
+(Dean Hume - Jul 19, 2016)
+
+[Offline First, the Decentralized Web, and Peer-to-Peer Technologies](https://medium.com/offline-camp/offline-first-the-decentralized-web-and-peer-to-peer-technologies-b05b7fb3bcdd#.6xdfvy6on)
+(Pedro Teixeira - Jul 15, 2016)
+
+(Offline Google Analytics Made Easy)[https://developers.google.com/web/updates/2016/07/offline-google-analytics]
+(Jeff Posnick - Jul, 2016)
+
+[My blog's Service Worker and Caching Strategy](https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/)
+(Paul Kinlan - Jun 15, 2016)
+
+[Offline/Low-bandwidth UX Design Patterns](https://medium.com/offline-camp/offline-low-bandwidth-ux-design-patterns-51391230a79e#.sctlcxk4e)
+(Steve Trevathan - Jul 8, 2016)
 
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
@@ -85,9 +238,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
 (Remy Sharp - Mar 22, 2016)
 
-[Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
-(Henrik Joreteg - Mar 22, 2016)
-
 [Service Workers: Save your User's Data using the Save-Data Header](http://www.deanhume.com/Home/BlogPost/service-workers--save-your-users-data-using-the-save-data-header/10139)
 (Dean Hume - Mar 8, 2016)
 
@@ -130,7 +280,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Reducing Single Point of Failure using Service Workers](http://calendar.perfplanet.com/2015/reducing-single-point-of-failure-using-service-workers/)
 (Dean Hume - Dec 1, 2015)
 
-[Building realtime collaborative offline-first apps with React, Redux, PouchDB and WebSockets](http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/)
+[Building realtime collaborative offline-first apps with React, Redux, PouchDB and WebSockets](https://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/)
 (Pedro Teixeira - Nov 30, 2015)
 
 [Cache-limiting in Service Workers …again](https://adactio.com/journal/9888)
@@ -154,7 +304,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building Flipkart Lite: A Progressive Web App](https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883)
 (Aditya Punjani - Nov 11, 2015)
 
-[Your first offline web app](https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/)
+[Your first offline web app](https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/)
 (Chrome Developer Team - 2015)
 
 [Making a Simple Site Work Offline with ServiceWorker](https://css-tricks.com/serviceworker-for-offline/)
@@ -172,7 +322,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Cache sandboxed HTTP requests with Service Worker](https://medium.com/@roman01la/cache-sandboxed-http-requests-with-service-worker-6bb3801237d1#.3jjklzohz)
 (Roman Liutikov - Oct 26, 2015)
 
-[The offline experience (or, saying goodbye to imperative data fetching)](https://medium.com/@plestik/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
+[The offline experience (or, saying goodbye to imperative data fetching)](https://medium.com/@d.gieselaar/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
 (Dario Gieselaar - Oct 25, 2015)
 
 [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
@@ -193,7 +343,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [How Do We Get It Done, Now?](http://alistapart.com/column/how-do-we-get-it-done-now)
 (Lyza Danger Gardner - Sep 30, 2015)
 
-[The Role of Workers and Offline Cache](https://unoyunodiez.com/2015/09/07/modern-mobile-web-development-breaking-the-rules-beating-delays-improving-responsiveness-and-performance-ii/)
+[The Role of Workers and Offline Cache](https://unoyunodiez.wordpress.com/2015/08/23/modern-mobile-web-development-01/)
 (Sep 7, 2015)
 
 [Let's make Offline Web Applications secure!](http://sakurity.com/blog/2015/07/28/appcache.html)
@@ -217,10 +367,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Making react-europe.org work offline with Service Workers and free SSL from Cloudflare](https://medium.com/@patcito/making-react-europe-org-work-offline-with-service-workers-f54fb0457048)
 (Patrick Aljord - May 14, 2015)
 
-[Offline Data Synchronization in Ionic](http://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
+[Offline Data Synchronization in Ionic](https://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
 (Marco Fernandes - Apr 29, 2015)
 
-[Offline Data in the Browser](http://blog.levvel.io/blog-post/offline-data-in-the-browser/)
+[Offline Data in the Browser](http://www.levvel.io/blog-post/offline-data-in-the-browser/)
 (Assaf Weinberg - Mar, 2015)
 
 [Offline: When Your Apps Can’t Connect to the Internet](https://uxdesign.cc/offline-93c2f8396124)
@@ -238,7 +388,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Right and Wrong Strategies When Taking Your App Offline](http://appdevelopermagazine.com/2356/2015/2/9/The-Right-and-Wrong-Strategies-When-Taking-Your-App-Offline/)
 (Martin Heller - Feb 9, 2015)
 
-[Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/life-tips/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
+[Three takeaways for web developers after two weeks of painfully slow internet](https://byrslf.co/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
 (Gabor Lenard - Jan 25, 2015)
 
 [Offline first: as simple as unplug & play?](http://www.ae.be/blog-en/offline-first-simple-unplug-play/)
@@ -262,7 +412,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 (Cesar William Alvarenga - Dec 8, 2014)
 
-[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+[Introduction to Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 (Matt Gaunt - Dec 1, 2014)
 
 [offline decentralized single sign-on in the browser](http://substack.net/offline_decentralized_single_sign_on_in_the_browser)
@@ -330,7 +480,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building an Offline First App with PouchDB](https://www.sitepoint.com/building-offline-first-app-pouchdb/)
 (Tiffany Brown - Mar 10, 2014)
 
-[Introduction to Offline Web Apps on the Kindle Fire](https://developer.amazon.com/appsandservices/community/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html)
+[Introduction to Offline Web Apps on the Kindle Fire](https://developer.amazon.com/public/community/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html)
 (Russell Beattie - Jan 30, 2014)
 
 [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first)
@@ -354,13 +504,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Appcache, not so much a douchebag as a complete pain in the #$%^](http://www.webdirections.org/blog/appcache-not-so-much-a-douchebag-as-a-complete-pain-in-the/)
 (John Allsopp - Jul 19, 2013)
 
-[Using HTML5 AppCache with Single Page Applications](http://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
+[Using HTML5 AppCache with Single Page Applications](https://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
 (Sergei Dorogin - Mar 29, 2013)
 
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
 (Jake Archibald - May 08, 2012)
 
-[Appcache Facts](http://appcachefacts.info)
+[Appcache Facts](http://mmariani.github.io/appcachefacts/)
 
 [Chrome Offline Apps](https://developer.chrome.com/apps/offline_apps)
 
@@ -383,6 +533,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Presentations
 
 ### Videos
+
+[Offline-first for Your Static Site](https://www.youtube.com/watch?v=_kJMjJ1tm6o)
+(Jeff Posnick - Jan 30, 2017)
+
+[Service Worker and the Appification of the Web](http://www.thedotpost.com/2016/12/nolan-lawson-service-worker-and-the-appification-of-the-web)
+(Nolan Lawson - Dec 05, 2016)
+
+[Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4)
+(Jake Archibald- Nov 11, 2016)
 
 [Offline is the new black](https://vimeo.com/171317290)
 (Max Stoiber - Jun 19, 2016)
@@ -514,6 +673,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Slides
 
+[Offline, progressive, and multithreaded](https://nolanlawson.github.io/fronteers-2016/#/)
+(Nolan Lawson - Oct 10, 2016)
+
+[Rise of the Web Workers](http://blog.nparashuram.com/2016/09/rise-of-web-workers-nationjs.html)
+(Parashuram N - Sep 16, 2016)
+
 [Building an Offline Page for theguardian.com](https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-jsconf-budapest-may-2016)
 (Oliver Joseph Ash - May 14, 2016)
 
@@ -615,6 +780,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
+[offline-plugin](https://github.com/NekR/offline-plugin/): Offline plugin (ServiceWorker, AppCache) for webpack.
+
+[Pinterest Service Workers](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
+
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
 [bottle-service](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
@@ -640,7 +809,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage](https://github.com/mozilla/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -654,7 +823,19 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
+[bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
+
 ## Books
+
+[The Offline First Book](https://neighbourhood.ie/offline-first/book/)
+(by Neighbourhoodie)
+
+[Offline First Web Development](https://www.packtpub.com/web-development/offline-first-web-development)
+(by Daniel Sauble)
+
+[Building Progressive Web Apps](http://shop.oreilly.com/product/0636920052067.do)
+(by Tal Ater)
+
 [Client-Side Data Storage](http://shop.oreilly.com/product/0636920043676.do)
 (by Raymond Camden)
 
@@ -666,8 +847,6 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 ## Showcase
 [Minutes.io](https://minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
-
-[Swarm+React TodoMVC](http://ppyr.us/): Awesome offline implementation of [TodoMVC](http://todomvc.com) with real-time sync.
 
 [2048](https://gabrielecirulli.github.io/2048/): The original 2048 is a great game to pin to your homescreen. 
 

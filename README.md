@@ -40,6 +40,48 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Accessibility Testing for Offline First Applications](https://medium.com/ibm-watson-data-lab/accessibility-testing-for-offline-first-applications-d8d2bfd24a6e)
+(Maureen McElaney - Nov 6, 2017)
+
+[How to add an “Offline” notification to your PWA](https://medium.com/@argo49/how-to-add-an-offline-notification-to-your-pwa-c11ee640822b)
+(Tyler Argo - Oct 28, 2017)
+
+[Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
+(James Shvarts - Oct 8, 2017)
+
+[Supporting Offline Users — What Happens When it Breaks?](https://medium.com/offline-camp/supporting-offline-users-what-happens-when-it-breaks-562f7dcea0a9)
+(John Kleinschmidt - Sep 27, 2017)
+
+[Using React and Preact to Build My First Offline First Apps](https://medium.com/offline-camp/using-react-and-preact-to-build-my-first-offline-first-apps-8df4a1e5471b)
+(Nick Kasten - Sep 5, 2017)
+
+[Offline-Friendly Forms](https://mxb.at/blog/offline-forms/)
+(Max Böck - Aug 23, 2017)
+
+[Service Worker: One fallback offline image for any aspect ratio](https://hackernoon.com/service-worker-one-fallback-offline-image-for-any-aspect-ratio-b427c0f897fb)
+(Sebastian Eberlein - Aug 14, 2017)
+
+[You're Offline](https://mxb.at/blog/youre-offline/)
+(Max Böck - Jul 12, 2017)
+
+[[Part 2] Get rapid offline capability in your Angular app with service worker](https://medium.com/onehourcode/part-2-get-rapid-offline-capability-in-your-angular-app-with-service-worker-954f17109dd0)
+(Hugo Dolan - Jun 28, 2017)
+
+[Persistent Storage API: Building for the offline web](https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161)
+(Dean Hume - Jun 26, 2017)
+
+[[Part 1] Get rapid offline capability in your Angular app with service worker](https://medium.com/onehourcode/part-1-get-rapid-offline-capability-in-your-angular-app-with-service-worker-762a889a503d)
+(Hugo Dolan - Jun 21, 2017)
+
+[Building an offline Web App that works in very low internet conditions using ServiceWorkers](https://medium.com/progressive-web-apps/building-offline-webapp-using-serviceworkers-8939a694cc5)
+(Hari krishna - Jun 16, 2017)
+
+[Offline POSTs in Progressive Web Apps](https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223)
+(Nitish Thakur - Jun 23, 2017)
+
+[Offline First Design Patterns : Engineering](https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3)
+(Anirudha Bedre - Mar 28, 2017)
+
 [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 (Jani Eväkallio - Mar 28, 2017)
 
@@ -60,6 +102,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [Send messages when you’re back online with Service Workers and Background Sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
 (Phil Nash - Feb 17, 2017)
+
+[Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin)
+(Kay Plößer - Feb 12, 2017)
 
 [Offline First React Native + Meteor Apps](https://hackernoon.com/offline-first-react-native-meteor-apps-2bee8e976ec7)
 (Spencer Carli - Feb 8, 2017)
@@ -163,6 +208,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Reading List](https://chrisruppel.com/blog/service-worker-offline-content-list/)
 (Chris Ruppel - Oct 5, 2016)
 
+[Almost any web page can work offline](https://github.com/homam/service-workers-example) 
+(Homam Hosseini - Sep 24, 2016)
+
 [Enabling Offline First Experiences on the Web with Service Workers](https://medium.com/offline-camp/enabling-offline-first-experiences-on-the-web-with-service-workers-e4bc8c773dae#.c6ui0i9cs)
 (Dan Zajdband - Sep 12, 2016)
 
@@ -184,8 +232,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline First, the Decentralized Web, and Peer-to-Peer Technologies](https://medium.com/offline-camp/offline-first-the-decentralized-web-and-peer-to-peer-technologies-b05b7fb3bcdd#.6xdfvy6on)
 (Pedro Teixeira - Jul 15, 2016)
 
-(Offline Google Analytics Made Easy)[https://developers.google.com/web/updates/2016/07/offline-google-analytics]
+[Offline Google Analytics Made Easy](https://developers.google.com/web/updates/2016/07/offline-google-analytics)
 (Jeff Posnick - Jul, 2016)
+
+[Security in Offline First Apps](https://medium.com/offline-camp/offline-first-security-59bf4800e82a)
+(Calvin Metcalf - Jul 8, 2016)
 
 [My blog's Service Worker and Caching Strategy](https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/)
 (Paul Kinlan - Jun 15, 2016)
@@ -214,10 +265,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Progressive Web Apps with Service Workers](http://blog.booking.com/progressive-web-apps-with-service-workers.html)
 (Jesse Yang - Apr 21, 2016)
 
-[How To Use PouchDB + SQLite For Local Storage In Ionic 2] (http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
+[How To Use PouchDB + SQLite For Local Storage In Ionic 2](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
 (Ashteya Biharisingh - Apr 18, 2016)
 
-[Offline-First, Document Sharing, Templates: Monod is Back (not in Black)] (https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
+[Offline-First, Document Sharing, Templates: Monod is Back (not in Black)](https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
 (Apr 15, 2016)
 
 [Issue 4: Offline badging, DevTools, Testing, Travis, Web Storage, Service Worker Scopes, Data-driven Development, Compute Engine](https://medium.com/totally-tooling-tears/issue-4-offline-badging-testing-travis-devtools-issues-web-storage-data-driven-development-8dd1cfbc410a#.mgur8g8n3)
@@ -824,6 +875,11 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
 [bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
+
+[Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
+
+[workbox](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
+
 
 ## Books
 
